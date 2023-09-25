@@ -1,6 +1,7 @@
 Hello World!
 This is second line.
 Third line
+Third and a half line
 Fourth line
 and
 so
@@ -13,3 +14,5 @@ With indentation
     and a single
 and back again.
 and the end.
+
+And I have also changes some lines in the text file
